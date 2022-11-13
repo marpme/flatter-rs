@@ -1,5 +1,5 @@
 #!/bin/bash
-npm i -g tailwindcss
+npm install
 
 curl https://sh.rustup.rs -sSf | sh -s -- -y
 PATH=$PATH:/vercel/.cargo/bin
